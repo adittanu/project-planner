@@ -4,7 +4,7 @@
 
 <style>
 body {
-    background-attachment: #f2f2f2;
+    background: #f2f2f2;
 }
 #app {
     font-family: Arial, Helvetica, sans-serif;
